@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Fitness Fit</string>
+
+    <string name="home_welcoming_message">Welcome</string>
+    <string name="home_current_day">Current Day</string>
+    <string name="home_rest_days">Rest Days</string>
+    <string name="home_progress">Progress</string>
+
+    // Register Screen
+    <string name="register_screen_welcoming">Let\'s Create a new Account</string>
+    <string name="register_screen_fillData">Please fill in the data below</string>
+    <string name="register_screen_name">Name</string>
+    <string name="register_screen_email">Email</string>
+    <string name="register_screen_password">Password</string>
+    <string name="register_screen_register">Create Account</string>
+    <string name="register_screen_nameError">Name must be between 1 and 10 characters</string>
+    <string name="register_screen_emailFormat">Email format is incorrect</string>
+    <string name="register_screen_passwordLess">Less than 8 characters or contains spaces</string>
+    <string name="register_screen_registerError">Email has been used before or an error occurred</string>
+    <string name="register_screen_accountCreated">Your account was created successfully. We\'ve sent an activation email to you. Please activate your account before logging in</string>
+    <string name="register_screen_hint">Note: Please create an account using a valid email address. After registration, we will send an activation message to your email. This will allow you to change your password</string>
+    <string name="register_screen_internet">Please connect to the internet</string>
+
+
+    // Login Screen
+    <string name="login_screen_welcoming">Wellcome back you\'ve been missed</string>
+    <string name="login_screen_fillData">Please fill in the data below</string>
+    <string name="login_screen_email">Email</string>
+    <string name="login_screen_password">Password</string>
+    <string name="login_screen_login">Login</string>
+    <string name="login_screen_haveNotAccount">Don\'t have an account ?</string>
+    <string name="login_screen_register">Register Now!</string>
+    <string name="login_screen_forgotPassword">Forgot Password ?</string>
+    <string name="login_screen_emptyEmail">Email field is empty</string>
+    <string name="login_screen_emptyPassword">Password field is empty</string>
+    <string name="login_screen_incorrect">Email or password is incorrect</string>
+    <string name="login_screen_passwordLess">less than 8 characters or contains spaces</string>
+    <string name="login_screen_emailFormat">Email format is incorrect</string>
+    <string name="login_screen_emailSheet">Email</string>
+    <string name="login_screen_sendEmailSheet">Send</string>
+    <string name="login_screen_hintSheet">Please note that the reset email will be sent to your inbox for you to create a new password</string>
+    <string name="login_screen_emailSent">Message sent</string>
+    <string name="login_screen_wrongAccount">Your account doesn\'t exist.</string>
+    <string name="login_screen_internet">Please connect to the internet</string>
+
+
+    // First Onboarding
+    <string name="onboarding1_gender_question">What\'s your gender ?</string>
+    <string name="onboarding1_male">Male</string>
+    <string name="onboarding1_female">Female</string>
+    <string name="onboarding1_Next">NEXT</string>
+    <string name="onboarding1_screen_haveAccount">Already have an account ?</string>
+
+    // Second Onboarding
+    <string name="onboarding2_level_question">How do you describe your current level of fitness ?</string>
+    <string name="onboarding2_level_unfit">Beginner</string>
+    <string name="onboarding2_level_average">"Intermediate"</string>
+    <string name="onboarding2_level_good">"Advanced</string>
+
+    // Third Onboarding
+    <string name="onboarding3_days_question">How often do you exercise?</string>
+    <string name="onboarding3_days_never">Rarely</string>
+    <string name="onboarding3_days_1to2">1-2 times a week</string>
+    <string name="onboarding3_days_3to4">3-4 times a week</string>
+    <string name="onboarding3_days_everyday">5 or more times a week</string>
+
+    // Fourth Onboarding
+    <string name="onboarding4_spend_question">How long do you spend exercising per day ?</string>
+    <string name="onboarding4_spend_donot">15 minutes</string>
+    <string name="onboarding4_spend_30minutes">30 minutes</string>
+    <string name="onboarding4_spend_1hour">45 minutes</string>
+    <string name="onboarding4_spend_2hours">60 minutes</string>
+
+    // Fifth Onboarding
+    <string name="onboarding5_diet_question">Would you say you eat a healthy balanced diet ?</string>
+    <string name="onboarding5_diet_yes">Yes</string>
+    <string name="onboarding5_diet_no">No</string>
+    <string name="onboarding5_diet_notAlways">"Sometimes"</string>
+
+    // Sixth Onboarding
+    <string name="onboarding6_healthy_question">How healthy do you consider yourself ?</string>
+    <string name="onboarding6_healthy_1">Not healthy</string>
+    <string name="onboarding6_healthy_2">Moderately healthy</string>
+    <string name="onboarding6_healthy_3">Very healthy</string>
+
+    // Seventh Onboarding
+    <string name="onboarding7_motivate_question">What motivates you to exercise ?\n(Multiple select)</string>
+    <string name="onboarding7_motivate_1">Fitness</string>
+    <string name="onboarding7_motivate_2">Weight loss</string>
+    <string name="onboarding7_motivate_3">Endurance</string>
+    <string name="onboarding7_motivate_4">Stress relief</string>
+    <string name="onboarding7_motivate_5">Health</string>
+    <string name="onboarding7_motivate_6">Appearance</string>
+
+    // Eighth Onboarding
+    <string name="onboarding8_Finish">FINISH</string>
+    <string name="onboarding8_age_question">How old are you ?</string>
+    <string name="onboarding8_age_answer">Years</string>
+    <string name="onboarding8_height_question">How tall are you ?</string>
+    <string name="onboarding8_height_answer">Cm</string>
+    <string name="onboarding8_weight_question">How much do you weigh ?</string>
+    <string name="onboarding8_weight_answer">Kg</string>
+    <string name="onboarding8_weight_not">Optional</string>
+
+    // Home Workouts Screen
+    <string name="homeWorkoutScreen_error">Error while loading data</string>
+    <string name="homeWorkoutScreen_myPlan">MY PLAN</string>
+    <string name="homeWorkoutScreen_week1">Week 1</string>
+    <string name="homeWorkoutScreen_week2">Week 2</string>
+    <string name="homeWorkoutScreen_week3">Week 3</string>
+    <string name="homeWorkoutScreen_week4">Week 4</string>
+    <string name="homeWorkoutScreen_rest">Rest</string>
+
+    // Workout Screen
+    <string name="workoutScreen1_start">Start</string>
+    <string name="workoutScreen1_sec">sec</string>
+    <string name="workoutScreen1_next">Next</string>
+    <string name="workoutScreen1_skip">Skip</string>
+    <string name="workoutScreen1_rest">Rest</string>
+    <string name="workoutScreen1_done">Done</string>
+    <string name="workoutScreen1_setNumber">Set Number: </string>
+
+
+
+    // Meal Categories Screen
+    <string name="mealsCategoryScreen_topAppBar">Meals</string>
+    <string name="mealsCategoryScreen_error">Error While Loading Data</string>
+    <string name="mealsCategoryScreen_more">More Than 110 Meals</string>
+
+    // Meals Screen
+    <string name="mealsScreen_error">Error While Loading Data</string>
+
+    // Meal Screen
+    <string name="mealScreen_error">Error While Loading Data</string>
+    <string name="mealScreen_protein">Protein: </string>
+    <string name="mealScreen_calories">Calories: </string>
+    <string name="mealScreen_ingredients">Ingredients:</string>
+    <string name="mealScreen_instructions">Instructions:</string>
+    <string name="mealScreen_p">g</string>
+    <string name="mealScreen_cal">kcal</string>
+    <string name="mealScreen_share">Share Meal</string>
+
+    // Dashboard Screen
+    <string name="dashboard_profile">PROFILE</string>
+    <string name="dashboard_info">My Information</string>
+    <string name="dashboard_journey">My Journey</string>
+    <string name="dashboard_progress">My Progress</string>
+    <string name="dashboard_name">Name: </string>
+    <string name="dashboard_gender">Gender: </string>
+    <string name="dashboard_age">Age: </string>
+    <string name="dashboard_height">Height: </string>
+    <string name="dashboard_weight">Weight: </string>
+    <string name="dashboard_finished">Completed</string>
+    <string name="dashboard_remain">Remaining</string>
+    <string name="dashboard_firstWeekProgress">Week 1: \t\t</string>
+    <string name="dashboard_secondWeekProgress">Week 2: \t\t</string>
+    <string name="dashboard_thirdWeekProgress">Week 3: \t\t</string>
+    <string name="dashboard_fourthWeekProgress">Week 4 \t\t:</string>
+    <string name="dashboard_error">Error while loading data</string>
+    <string name="dashboard_male">Male</string>
+    <string name="dashboard_female">Female</string>
+    <string name="dashboard_share">Share Your Progress</string>
+
+
+    // Settings Screen
+    <string name="settings_settings">SETTINGS</string>
+    <string name="settings_isVerified">Is Account Verified</string>
+    <string name="settings_verifyAccount">Verify Account</string>
+    <string name="settings_verifyAccountToast">Verification email has been sent</string>
+    <string name="settings_verifyAccountAlreadyVerifiedToast">Your account is already verified</string>
+    <string name="settings_changePassword">Change Password</string>
+    <string name="settings_changePasswordDone">Password Changed Successfully</string>
+    <string name="settings_changePasswordError">You old password is incorrect</string>
+    <string name="settings_logOut">Log out</string>
+    <string name="settings_oldPassword">Old Password</string>
+    <string name="settings_newPassword">New Password</string>
+    <string name="settings_arabicLanguage">Arabic Language</string>
+    <string name="settings_darkMode">Dark Mode</string>
+    <string name="settings_reportAProblem">Report a problem</string>
+    <string name="settings_reportAProblemError">An error occurred</string>
+    <string name="settingsScreen_warning">Warning</string>
+    <string name="settingsScreen_yes">Yes</string>
+    <string name="settingsScreen_no">No</string>
+    <string name="settingsScreen_logOut">Are you sure you want to log out?</string>
+    <string name="settingsScreen_logOutError">Error while logging out</string>
+    <string name="settingsScreen_verifyError">We couldn\'t send the email to this account</string>
+
+
+</resources>

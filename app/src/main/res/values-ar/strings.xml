@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Fit</string>
+
+    <string name="home_welcoming_message">اهلا</string>
+    <string name="home_current_day">اليزم الحالي</string>
+    <string name="home_rest_days">الايام المتبقية</string>
+    <string name="home_progress">التقدم</string>
+
+    // Register Screen
+    <string name="register_screen_welcoming">لنقم بإنشاء حساب جديد</string>
+    <string name="register_screen_fillData">الرجاء تعبئة البيانات أدناه</string>
+    <string name="register_screen_name">الاسم</string>
+    <string name="register_screen_email">البريد الإلكتروني</string>
+    <string name="register_screen_password">كلمة المرور</string>
+    <string name="register_screen_register">إنشاء حساب</string>
+    <string name="register_screen_nameError">يجب أن يكون الاسم بين 1 و 10 أحرف</string>
+    <string name="register_screen_emailFormat">تنسيق البريد الإلكتروني غير صحيح</string>
+    <string name="register_screen_passwordLess">أقل من 8 أحرف أو يحتوي على مسافات</string>
+    <string name="register_screen_registerError">تم استخدام البريد الإلكتروني من قبل أو حدث خطأ</string>
+    <string name="register_screen_accountCreated">تم إنشاء حسابك بنجاح. لقد أرسلنا رسالة تفعيل إلى بريدك الإلكتروني. الرجاء تفعيل حسابك قبل تسجيل الدخول</string>
+    <string name="register_screen_hint">ملاحظة: يرجى إنشاء حساب باستخدام عنوان بريد إلكتروني صالح. بعد التسجيل، سنرسل رسالة تنشيط إلى بريدك الإلكتروني. سيتيح لك هذا تغيير كلمة المرور</string>
+    <string name="register_screen_internet">يرجى الاتصال بالإنترنت</string>
+
+    // Login Screen
+    <string name="login_screen_welcoming">مرحبًا بك مجددًا، لقد افتقدناك</string>
+    <string name="login_screen_fillData">من فضلك، قم بتعبئة البيانات أدناه</string>
+    <string name="login_screen_email">البريد الإلكتروني</string>
+    <string name="login_screen_password">كلمة المرور</string>
+    <string name="login_screen_login">تسجيل الدخول</string>
+    <string name="login_screen_passwordLess">أقل من 8 أحرف او تحوي مسافات</string>
+    <string name="login_screen_emailFormat">تنسيق البريد الإلكتروني غير صحيح</string>
+    <string name="login_screen_emailSheet">البريد الإلكتروني</string>
+    <string name="login_screen_sendEmailSheet">إرسال</string>
+    <string name="login_screen_hintSheet">يرجى ملاحظة أن البريد الإلكتروني لإعادة تعيين كلمة المرور سيتم إرساله إلى صندوق الوارد الخاص بك لإنشاء كلمة مرور جديدة</string>
+    <string name="login_screen_haveNotAccount">ليس لديك حساب ؟</string>
+    <string name="login_screen_register">سجل الآن!</string>
+    <string name="login_screen_forgotPassword">نسيت الرقم السري ؟</string>
+    <string name="login_screen_emptyEmail">حقل البريد الإلكتروني فارغ</string>
+    <string name="login_screen_emptyPassword">حقل كلمة المرور فارغ</string>
+    <string name="login_screen_incorrect">البريد الإلكتروني أو كلمة المرور غير صحيحة</string>
+    <string name="login_screen_emailSent">تم إرسال الرسالة</string>
+    <string name="login_screen_wrongAccount">حسابك غير موجود</string>
+    <string name="login_screen_internet">يرجى الاتصال بالإنترنت</string>
+
+    // First Onboarding
+    <string name="onboarding1_gender_question">ما هو جنسك ؟</string>
+    <string name="onboarding1_male">رجل</string>
+    <string name="onboarding1_female">امرأة</string>
+    <string name="onboarding1_Next">التالي</string>
+    <string name="onboarding1_screen_haveAccount">هل لديك حساب بالفعل ؟</string>
+
+    // Second Onboarding
+    <string name="onboarding2_level_question">كيف تصف مستوى لياقتك البدنية الحالي ؟</string>
+    <string name="onboarding2_level_unfit">مبتدئ</string>
+    <string name="onboarding2_level_average">متوسط</string>
+    <string name="onboarding2_level_good">متقدم</string>
+
+    // Third Onboarding
+    <string name="onboarding3_days_question">كم مرة تمارس التمارين الرياضية ؟</string>
+    <string name="onboarding3_days_never">نادرًا</string>
+    <string name="onboarding3_days_1to2">1-2 مرات في الأسبوع</string>
+    <string name="onboarding3_days_3to4">3-4 مرات في الأسبوع</string>
+    <string name="onboarding3_days_everyday">5 أو أكثر مرات في الأسبوع</string>
+
+    // Fourth Onboarding
+    <string name="onboarding4_spend_question">كم من الوقت تقضيه في ممارسة الرياضة يوميا ؟</string>
+    <string name="onboarding4_spend_donot">15 دقيقة</string>
+    <string name="onboarding4_spend_30minutes">30 دقيقة</string>
+    <string name="onboarding4_spend_1hour">45 دقيقة</string>
+    <string name="onboarding4_spend_2hours">60 دقيقة</string>
+
+    // Fifth Onboarding
+    <string name="onboarding5_diet_question">هل تقول إنك تتبع نظامًا غذائيًا متوازنًا وصحيًا ؟</string>
+    <string name="onboarding5_diet_yes">نعم</string>
+    <string name="onboarding5_diet_no">لا</string>
+    <string name="onboarding5_diet_notAlways">أحيانًا</string>
+
+    // Sixth Onboarding
+    <string name="onboarding6_healthy_question">إلى أي مدى تعتبر نفسك صحيًا ؟</string>
+    <string name="onboarding6_healthy_1">غير صحي</string>
+    <string name="onboarding6_healthy_2">صحي إلى حد ما</string>
+    <string name="onboarding6_healthy_3">صحي جدًا</string>
+
+    // Seventh Onboarding
+    <string name="onboarding7_motivate_question">ما الذي يحفزك لممارسة التمارين الرياضية؟ (اختر العديد من الخيارات)</string>
+    <string name="onboarding7_motivate_1">اللياقة البدنية</string>
+    <string name="onboarding7_motivate_2">فقدان الوزن</string>
+    <string name="onboarding7_motivate_3">التحمل</string>
+    <string name="onboarding7_motivate_4">تخفيف التوتر</string>
+    <string name="onboarding7_motivate_5">الصحة</string>
+    <string name="onboarding7_motivate_6">المظهر</string>
+
+    // Eighth Onboarding
+    <string name="onboarding8_Finish">انهاء</string>
+    <string name="onboarding8_age_question">كم عمرك ؟</string>
+    <string name="onboarding8_age_answer">سنة</string>
+    <string name="onboarding8_height_question">كم طولك ؟</string>
+    <string name="onboarding8_height_answer">سم</string>
+    <string name="onboarding8_weight_question">كم وزنك ؟</string>
+    <string name="onboarding8_weight_answer">كغم</string>
+    <string name="onboarding8_weight_not">اختياري</string>
+
+    // Home Workouts Screen
+    <string name="homeWorkoutScreen_error">خطأ اثناء تحميل البيانات</string>
+    <string name="homeWorkoutScreen_myPlan">خطتي</string>
+    <string name="homeWorkoutScreen_week1">الاسبوع الاول</string>
+    <string name="homeWorkoutScreen_week2">الاسبوع الثاني</string>
+    <string name="homeWorkoutScreen_week3">الاسبوع الثالث</string>
+    <string name="homeWorkoutScreen_week4">الاسبوع الرابع</string>
+    <string name="homeWorkoutScreen_rest">راحة</string>
+
+    // Workout Screen 1
+    <string name="workoutScreen1_start">ابدأ</string>
+    <string name="workoutScreen1_sec">ثانية</string>
+    <string name="workoutScreen1_next">التالي</string>
+    <string name="workoutScreen1_skip">تخطي</string>
+    <string name="workoutScreen1_rest">راحة</string>
+    <string name="workoutScreen1_done">تم</string>
+    <string name="workoutScreen1_setNumber">المجموعة رقم: </string>
+
+
+    // Meal Categories Screen
+    <string name="mealsCategoryScreen_topAppBar">الوجبات</string>
+    <string name="mealsCategoryScreen_error">حدث خطأ أثناء تحميل البيانات</string>
+    <string name="mealsCategoryScreen_more">أكثر من 110 وجبة</string>
+    // Meals Screen
+    <string name="mealsScreen_error">حدث خطأ أثناء تحميل البيانات</string>
+    // Meal Screen
+    <string name="mealScreen_error">حدث خطأ أثناء تحميل البيانات</string>
+    <string name="mealScreen_protein">بروتين: </string>
+    <string name="mealScreen_calories">سعرات حرارية: </string>
+    <string name="mealScreen_ingredients">مكونات: </string>
+    <string name="mealScreen_instructions">التعليمات: </string>
+    <string name="mealScreen_p">جم</string>
+    <string name="mealScreen_cal">سعرة</string>
+    <string name="mealScreen_share">مشاركة الوجبة</string>
+
+    // Dashboard Screen
+    <string name="dashboard_profile">الملف الشخصي</string>
+    <string name="dashboard_info">معلوماتي</string>
+    <string name="dashboard_journey">رحلتي</string>
+    <string name="dashboard_progress">تقدمي</string>
+    <string name="dashboard_name">الاسم: </string>
+    <string name="dashboard_gender">الجنس: </string>
+    <string name="dashboard_age">العمر: </string>
+    <string name="dashboard_height">الطول: </string>
+    <string name="dashboard_weight">الوزن: </string>
+    <string name="dashboard_finished">مكتمل</string>
+    <string name="dashboard_remain">متبقي</string>
+    <string name="dashboard_firstWeekProgress">الاسبوع الاول: \t\t</string>
+    <string name="dashboard_secondWeekProgress">الاسبوع الثاني: \t\t</string>
+    <string name="dashboard_thirdWeekProgress">الاسبوع الثالث: \t\t</string>
+    <string name="dashboard_fourthWeekProgress">الاسبوع الرابع: \t\t</string>
+    <string name="dashboard_error">خطأ اثناء تحميل البيانات</string>
+    <string name="dashboard_male">ذكر</string>
+    <string name="dashboard_female">انثي</string>
+    <string name="dashboard_share">مشاركة تقدمك</string>
+
+    // Settings Screen
+    <string name="settings_settings">الاعدادات</string>
+    <string name="settings_isVerified">هل الحساب موثق</string>
+    <string name="settings_verifyAccount">توثيق الحساب</string>
+    <string name="settings_verifyAccountToast">تم إرسال البريد الإلكتروني للتحقق</string>
+    <string name="settings_verifyAccountAlreadyVerifiedToast">حسابك موثق بالفعل</string>
+    <string name="settings_changePassword">تغيير الرقم السري</string>
+    <string name="settings_changePasswordDone">تم تغيير كلمة المرور بنجاح</string>
+    <string name="settings_changePasswordError">كلمة المرور القديمة غير صحيحة</string>
+    <string name="settings_logOut">تسجيل الخروج</string>
+    <string name="settings_oldPassword">الرقم السري القديم</string>
+    <string name="settings_newPassword">الرقم السري الجديد</string>
+    <string name="settings_arabicLanguage">اللغة العربية</string>
+    <string name="settings_darkMode">الوضع المظلم</string>
+    <string name="settings_reportAProblem">الابلاغ عن مشكلة</string>
+    <string name="settings_reportAProblemError">حدث خطأ ما</string>
+    <string name="settingsScreen_warning">تحذير</string>
+    <string name="settingsScreen_yes">نعم</string>
+    <string name="settingsScreen_no">لا</string>
+    <string name="settingsScreen_logOut">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="settingsScreen_logOutError">خطأ أثناء تسجيل الخروج</string>
+    <string name="settingsScreen_verifyError">تعذر علينا إرسال البريد الإلكتروني إلى هذا الحساب</string>
+
+</resources>
